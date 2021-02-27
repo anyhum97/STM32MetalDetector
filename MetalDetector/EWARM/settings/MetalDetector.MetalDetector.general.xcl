@@ -1,0 +1,15 @@
+"Q:\IAR Embedded Workbench\arm\bin\armproc.dll" 
+
+"Q:\IAR Embedded Workbench\arm\bin\armstlink2.dll" 
+
+"Q:\STM Projects\STM32MetalDetector\MetalDetector\EWARM\MetalDetector\Exe\MetalDetector.out" 
+
+--plugin="Q:\IAR Embedded Workbench\arm\bin\armbat.dll" 
+
+--device_macro="Q:\IAR Embedded Workbench\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="Q:\IAR Embedded Workbench\arm\config\flashloader\ST\FlashSTM32F427xI.board" 
+
+
+
+
