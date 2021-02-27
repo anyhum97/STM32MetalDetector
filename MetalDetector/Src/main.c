@@ -39,6 +39,13 @@
 #include "main.h"
 #include "stm32f4xx_hal.h"
 
+#include "stm32f4xx.h"
+//#include "stm32f4xx_spi.h"
+#include "defines.h"
+#include "tm_stm32f4_ili9341_ltdc.h"
+#include "tm_stm32f4_fonts.h"
+#include "tm_stm32f4_delay.h"
+
 /* USER CODE BEGIN Includes */
 
 #include "fft.h"

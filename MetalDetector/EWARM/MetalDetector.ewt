@@ -1195,6 +1195,27 @@
         </group>
         <group>
             <name>User</name>
+            <group>
+                <name>LTDC</name>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\defines.h</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\tm_stm32f4_dma.h</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\tm_stm32f4_fonts.h</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\tm_stm32f4_ili9341_ltdc.h</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\tm_stm32f4_sdram.h</name>
+                </file>
+                <file>
+                    <name>$PROJ_DIR$\..\Src\tm_stm32f4_spi.h</name>
+                </file>
+            </group>
             <file>
                 <name>$PROJ_DIR$\..\Src\fft.h</name>
             </file>
